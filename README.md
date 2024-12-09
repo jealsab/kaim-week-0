@@ -13,5 +13,3 @@ Step 2: Navigate to the project directory:
 Step 3: Install the required dependencies
 
     pip install -r requirements.txt
-
-Step 4: Run the project
